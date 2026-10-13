@@ -1,0 +1,2 @@
+# STUDENT-MANAGMENT-SYSTEM-WITH-JSON-AND-CURD-OPERATIONS-
+Python-based console application designed to handle fundamental student database operations. Built adhering to Object-Oriented Programming (OOP) principles, the system ensures data persistence by saving and retrieving student records to and from a local JSON file format.  This system provides a full CRUD framework (Create, Read, Update, Delete) 
